@@ -1,7 +1,8 @@
 # SystemMessages  
 ## WoTのガレージの通知センターでメッセージの表示を行うプログラム  
 <b>mod_TEST_Messages_ver2.pyが最新のファイルです</b>  
-メッセージの左横に表示されるアイコンは`SM_TYPE`とよばれ、次のような種類がある。  
+メッセージの左横に表示されるアイコンは`SM_TYPE`とよばれ、次のような種類がある。  
+
 `
 'Error',  
  'ErrorHeader',  
