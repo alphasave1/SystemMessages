@@ -11,5 +11,5 @@ def init():
 
 
 def __onAccountBecomePlayer():
-    SystemMessages.pushMessage("<font color='#BFE9FF'>mod_TestMessages)</font>\n", type=SystemMessages.SM_TYPE.GameGreeting)
+    SystemMessages.pushMessage("<font color='#BFE9FF'>mod_TestMessages</font>\n", type=SystemMessages.SM_TYPE.GameGreeting)
     SystemMessages.pushMessage("<font color='#BFE9FF'>Twitter</font> Page:\n<font color='#C5AB5D'>at <a href='event:" + URLLINK + "'>here</a>.</font>\n", type=SystemMessages.SM_TYPE.GameGreeting)
